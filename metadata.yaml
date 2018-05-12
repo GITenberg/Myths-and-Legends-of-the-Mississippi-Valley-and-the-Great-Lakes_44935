@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '943'
     url: http://www.gutenberg.org/2009/agents/943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44935#Myths-and-Legends-of-the-Mississippi-Valley-and-the-Great-Lakes
 gutenberg_issued: '2014-02-16'
 gutenberg_type: Text
 identifiers:
